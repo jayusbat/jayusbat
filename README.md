@@ -13,6 +13,4 @@ Co-Founder of Jayus Team<br>19 Y/o<br>Also known as the Bat<br><br>I'm not reall
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayusbat&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jayusbat&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=jayusbat&icon=5&color=12)](https://github.com/jayusbat)
